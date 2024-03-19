@@ -1,0 +1,487 @@
+/*Estas son las clases para la parte de arriba de la página xd */
+/* Primer botón */
+.btn1{
+	height:20px;
+	width:125px;
+	position:absolute;
+	display:flex;
+	top:10px;
+	right: 420px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	min-height:20px;
+	}
+.btn1:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+}
+/* Segundo Botón */
+.btn2{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:10px;
+	right:270px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn2:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+}
+/*Tercer Botón */
+.btn3{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:10px;
+	right:130px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn3:hover{
+	color:#0000ff;
+	transition-duration:1s;
+    cursor:pointer;
+}
+/* Cuarto Botón */
+.btn4{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:70px;
+	right:820px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn4:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+/* Quinto Botón */
+.btn5{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:10px;
+	right:30px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn5:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+.btn6{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:10px;
+	right:550px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn6:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+.btn7{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:10px;
+	right:820px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn7:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+.btn8{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:70px;
+	right:670px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn8:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+.btn9{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:70px;
+	right:550px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn9:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+.btn10{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:70px;
+	right:420px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn10:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+.btn11{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:70px;
+	right:290px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn11:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+.btn12{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:70px;
+	right:160px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn12:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+.btn13{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top: 70px;;
+	right:30px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn13:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+.btn14{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:10px;;
+	right:670px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn14:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+.btn15{
+	height:20px;
+	width:125px;
+	display:flex;
+	position:absolute;
+	top:80px;
+	left: 400px;
+	font-size:20px;
+    font-family: "Philosopher", sans-serif;
+	color:white;
+	border:none;
+	background-color:black;
+	}
+.btn15:hover{
+	color:#0000ff;
+	transition-duration:1s;
+	cursor:pointer;
+    }
+/* Decoración de la parte de arriba */
+.topdeco{
+	width:100vw;
+	height:135px;
+	display:flex;
+	background-color:black;
+	position:absolute;
+	top:0px;
+	border:none;
+	}
+.title{
+	font-size:40px;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+	color:#0000ff;
+	position:absolute;
+	top:-18px;
+	left:170px;
+	}
+.logo{
+	top:10px;
+	left:20px;
+	position:absolute;
+	height:100px;
+	width:100px;
+}
+/* Estas son las clases para la parte media de la página :v */
+/* Primera sección */
+.subtitle1{
+	font-size:30px;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+	color:#000000;
+	position:absolute;
+	left:200px;
+	top:260px;
+	}
+.text1{
+    position:absolute;
+    font-family:"Philospher", sans-serif;
+    font-size:20px;
+    font-style:italic;
+    color:#000000;
+    left:200px;
+	top:320px;
+	max-height: 100%;
+	width: 500px;
+	text-align: justify;
+    }
+.subtitle1info{
+	font-size:30px;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+	color:#000000;
+	position:absolute;
+	left:100px;
+	top:260px;
+	text-align: justify;
+	}
+.text1info{
+    position:absolute;
+    font-family:"Philospher", sans-serif;
+    font-size:20px;
+    font-style:italic;
+    color:#000000;
+    left:100px;
+	top:320px;
+	text-align: justify;
+	max-height: 100%;
+	width: 800px;
+    }
+.greekst{
+    position:absolute;
+    right:250px;
+    bottom:150px;
+    height:350px;
+    width:350px;
+    border-radius:10%;
+	display:flexbox;
+    }
+
+/* Segunda sección */
+.subtitle2{
+	font-size:30px;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+	color:#000000;
+	position:absolute;
+	right:520px;
+	top:600px;
+	}
+.text2{
+    position:absolute;
+    font-family:"Philospher", sans-serif;
+    font-size:20px;
+    font-style:italic;
+    color:#000000;
+    right:200px;
+	top:650px;
+	max-height: 100%;
+	width: 500px;
+	text-align: justify;
+    }
+.subtitle2info{
+	font-size:30px;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+	color:#000000;
+	position:absolute;
+	left:560px;
+	top:600px;
+	text-align: justify;
+	}
+.text2info{
+    position:absolute;
+    font-family:"Philospher", sans-serif;
+    font-size:20px;
+    font-style:italic;
+    color:#000000;
+    left:560px;
+	top:650px;
+	text-align: justify;
+	max-height: 100%;
+	width: 800px;
+    }
+.etim{
+    position:absolute;
+    left:200px;
+	top:600px;
+    height:300px;
+    width:350px;
+    border-radius:10%;
+    }
+
+/* Tercera Sección */
+.subtitle3{
+	font-size:30px;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+	color:#000000;
+	position:absolute;
+	left:190px;
+	top:950px;
+	}
+.text3{
+    position:absolute;
+    font-family:"Philospher", sans-serif;
+    font-size:20px;
+    font-style:italic;
+    color:#000000;
+    left:190px;
+	top:1000px;
+	max-height: 100%;
+	width: 500px;
+	text-align: justify;
+    }
+.subtitle3info{
+	font-size:30px;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+	color:#000000;
+	position:absolute;
+	left:100px;
+	top:950px;
+	text-align: justify;
+	}
+.text3info{
+    position:absolute;
+    font-family:"Philospher", sans-serif;
+    font-size:20px;
+    font-style:italic;
+    color:#000000;
+    left:100px;
+	top:1000px;
+	text-align: justify;
+	max-height: 100%;
+	width: 800px;
+    }
+.philo{
+    position:absolute;
+    right:190px;
+	top:970px;
+    height:300px;
+    width:350px;
+    border-radius:10%;
+    }
+
+/* Esto es el footer de la página (hmmm, patas) */
+.credits{
+	position:absolute;
+	top: 100px;
+	left:50px;
+	color:white;
+	font-size:20px;
+}
+.separator{
+	aspect-ratio:930/140;
+	width:100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	position:absolute;
+	top:1300px;
+}
+.bottomdec{
+	background-image: url('./wave-bottom.svg');
+}
+
+/* Aquí termina el Index */
